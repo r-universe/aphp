@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rgho"]
+	path = rgho
+	url = https://github.com/aphp/rgho
+	shallow = true
+	registered = true
