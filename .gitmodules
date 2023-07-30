@@ -5,6 +5,3 @@
 [submodule "heemod"]
 	path = heemod
 	url = https://github.com/aphp/heemod
-[submodule "rgho"]
-	path = rgho
-	url = https://github.com/aphp/rgho
